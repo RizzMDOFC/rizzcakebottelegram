@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^2.8.1",
+    "@igorkowalczyk/repl-uptime": "^1.6.0",
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.9",
+    "llamaai": "^1.0.4",
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^4.76.2"
+  }
+}
